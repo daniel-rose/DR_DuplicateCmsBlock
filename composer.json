@@ -1,0 +1,15 @@
+{
+  "name": "dr/duplicate-cms-block",
+  "type": "magento-module",
+  "description": "This module allows you to duplicate cms blocks.",
+  "license": "OSL-3.0",
+  "authors": [
+    {
+      "name": "Daniel Rose",
+      "email": "daniel-rose@gmx.de"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
